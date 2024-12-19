@@ -1,0 +1,1 @@
+[Previous content of technical specification artifact]
